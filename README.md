@@ -1,12 +1,12 @@
 # Hi there, I'm Sead Fejzagić! 👋
 
-I'm a software developer with a passion for backend development and continuous learning. Currently pursuing my final year of studies in Electrical Engineering with a focus on Computer Science and Informatics at the University of Sarajevo.
+I'm a software developer with a passion for backend development and continuous learning. Bachelor of Electrical Engineering with a specialization in Computer Science and Informatics at the University of Sarajevo.
 
 ## About Me
 
 ### Education
 - **Faculty of Electrical Engineering**, University of Sarajevo
-  *2019 - Present | Computer Science and Informatics*
+  *2019 - 2024 | Computer Science and Informatics*
 - **Prva gimnazija Sarajevo**
   *2015 - 2019 | Department of Mathematics and Informatics*
 
